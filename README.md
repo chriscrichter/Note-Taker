@@ -11,7 +11,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Heroku deployed app
 
-//: [https://chriscrichter-notetaker.herokuapp.com/] (https://chriscrichter-notetaker.herokuapp.com/)
+//: chriscrichter Heroku [https://chriscrichter-notetaker.herokuapp.com/](https://chriscrichter-notetaker.herokuapp.com/)
 
 ## GitHub page
 
