@@ -1,0 +1,31 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Express Homework: Note Taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Chris Richter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.16.0",
+    "uuid": "^3.4.0",
+    "uuidv1": "^1.6.14"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriscrichter/Note-Taker.git"
+  },
+  "keywords": [
+    "note",
+    "taker"
+  ],
+  "bugs": {
+    "url": "https://github.com/chriscrichter/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/chriscrichter/Note-Taker#readme"
+}
