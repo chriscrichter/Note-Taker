@@ -1,7 +1,16 @@
 html, body {
   height: 100%;
+  font-family: 'Raleway', sans-serif, Helvetica;
   margin: 0;
   padding: 0;
+}
+
+a, h1, h4 {
+  font-family: 'Raleway', sans-serif, Helvetica;
+}
+
+.navbar-brand {
+  font-family: 'Raleway', sans-serif, Helvetica;
 }
 
 .save-note {
